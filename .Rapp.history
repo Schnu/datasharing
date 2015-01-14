@@ -1,0 +1,130 @@
+?rnorm
+args("rnorm")
+rnorm
+a <- available.packages()
+head(rownames(a),3)
+head(rownames(a),10)
+install.packages("slidify")
+r.version.string
+get version of R
+# get version of R
+R.version.string
+install.packages("slidify", lib="/my/own/R-packages/")
+install.packages("httr")
+> install_github('ramnath/slidify')
+install_github('ramnath/slidify')
+install.github('ramnath/slidify')
+library()
+library('htty')
+library('httr')
+library(httr)
+search()
+getwd()
+read.csv
+read.csv(fellowships)
+read.csv('fellowships')
+read.csv('fellowships.xls')
+read.csv("fellowships.xlsx")
+getwd9
+getwd()
+ls()
+my function <- function (x) {#
+	y <- rnorm(100)#
+	mean(y)#
+	}
+my function <- function (x) {#
+	y <- rnorm(100)#
+	mean(y)#
+	}
+my function <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+	}
+my function <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+clear
+myfunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+ls()
+dir()
+source("myfunction.R")
+ls()
+myfunction(3)
+x <- 1
+x<- 1
+x<-1
+print(x)
+y<-2
+print(y)
+x
+msg "hello"
+msg <- 'hello'
+msg
+clear
+x <- 1:20
+x
+x <- 1:50
+x
+vector()
+vector(1)
+x<-1
+Y<-1L
+Y
+1/Inf
+Inf/1
+attributes()
+x<- c(0.5,0.6)
+x
+x <- vector ('numeric', length = 10)
+x
+as.numeric(x)
+as.logical(x)
+as.character(x)
+y<-list(1, 'a', TRUE, 1+4i)
+x
+y
+m<-matric(nrow=2, ncol=3)
+m<-matrix(nrow=2, ncol=3)
+m
+dim(m)
+m<- matrix (1:6 nrow=2, ncol=3)
+m<- matrix (1:6, nrow=2, ncol=3)
+m
+m<- 1:20
+m
+dim(m) <-c(2,10)
+m
+x <- factor (c("yes","no",'yes','yes'))
+x
+table x
+table(x)
+unclass (x)
+Levels: yes no
+> x <- factor (c("yes","no",'yes','yes'))
+> x <- factor (c("yes","no",'yes','yes')) levels = c ('yes', 'no')
+> x <- factor (c('yes','no','yes','yes')) levels = c ('yes', 'no')
+> x <- factor (c("yes","no",'yes','yes'))
+> x <- factor (c("yes","no",'yes','yes'))
+> x <- factor (c("yes","no","yes","yes"))
+x <- factor (c("yes","no","yes","yes")) levels = c('yes', 'no')
+x <- factor (c("yes","no","yes","yes")) levels = c("yes", "no")
+clear
+x <-c(1,2,NA,10,3)
+is.na(x)
+is.nan(x)
+x <- data.frame (fpp = 1:4, bat = C(T,T,F,F))
+x <- data.frame(fpp = 1:4, bat = c(T,T,F,F))
+x
+nrow(x)
+ncol(x)
+initial <-read.table('name.rtf', nrows=2)
+initial <-read.table('name.rtf', nrows=1)
+classes <-sapply(initial class)
+classes <-sapply(initial, class)
+tabALL <-read.table('name.rtf', colClasses = classes)
+clean
+delete
